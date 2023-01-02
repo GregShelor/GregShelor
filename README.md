@@ -2,6 +2,7 @@
 
 <h2>Cybersecurity Bootcamp Projects:</h2>
 
+- [Ethical Hacking with Vulnerability Scanning and Exploitations](https://drive.google.com/file/d/17OzNOun3NTubNX14BaUMZIXy8-SVkoiF/view)
 - [Python Port Scanner](https://drive.google.com/file/d/1BpoUdJ24o19FrI5DbYQMCsKFbxxBKaSU/view) 
 - [Implementing and Troubleshooting Virtual Machines Internal Network](https://drive.google.com/file/d/1EActDELky10xYfy1Wi8Qi4LR8tb0njqx/view)
 
